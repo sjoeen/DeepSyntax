@@ -33,3 +33,6 @@ Go to Extensions (Ctrl+Shift+X).
 Click the ⋮ (three dots) at the top right and select "Install from VSIX...".
 
 Select the generated .vsix file
+
+##Contributing
+Feel free to submit issues, feature requests, or pull requests to improve the extension.
