@@ -14,11 +14,9 @@ To install DeepSeek 7B, run:
 
 ```bash
 ollama pull deepseek-r1:7b
-
-If you want to use a different model, modify the model name in src/extension.ts, inside the ollama.chat() function.
 ```
-
+If you want to use a different model, modify the model name in src/extension.ts, inside the ollama.chat() function.
 2. Install the Required tolls
-   ```bash
+```bash
 npm install
-   ```
+```
