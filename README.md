@@ -29,5 +29,7 @@ vsce package
 ```
 Open VS Code.
 Go to Extensions (Ctrl+Shift+X).
+
 Click the ⋮ (three dots) at the top right and select "Install from VSIX...".
+
 Select the generated .vsix file
