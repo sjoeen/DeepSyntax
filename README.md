@@ -17,3 +17,5 @@ Make sure to run the download command **inside the project directory**.
 To install **DeepSeek 7B**, run:
 ```sh
 ollama pull deepseek-r1:7b
+
+**note** if you opt for a different LLM, you must change the variable name within the exstention.ts file.
