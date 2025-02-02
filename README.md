@@ -36,3 +36,7 @@ Select the generated .vsix file
 
 # Contribution
 Feel free to submit issues, feature requests, or pull requests to improve the extension.
+
+# License
+This project is licensed under the MIT License
+ This permissive license allows users to do almost anything they want with your project (including using, modifying, and distributing it), as long as they include the original copyright and license notice in any copies or substantial portions of the software.
