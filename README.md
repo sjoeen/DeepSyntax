@@ -21,3 +21,13 @@ If you want to use a different model, modify the model name in src/extension.ts,
 ```bash
 npm install
 ```
+
+3. Compile extension:
+   
+```bash
+vsce package
+```
+Open VS Code.
+Go to Extensions (Ctrl+Shift+X).
+Click the ⋮ (three dots) at the top right and select "Install from VSIX...".
+Select the generated .vsix file
